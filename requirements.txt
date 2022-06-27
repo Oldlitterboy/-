@@ -84,7 +84,7 @@ pyxdg==0.25
 pyzmq==15.2.0
 qtgui==0.0.1
 redis==2.10.5
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.9.1
 roman==2.0.0
 scikit-learn==0.19.1
